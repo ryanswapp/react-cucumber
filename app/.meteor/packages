@@ -24,3 +24,5 @@ accounts-password
 
 # sanjo:jasmine
 # velocity:html-reporter
+xolvio:cucumber
+awesome:fixtures
